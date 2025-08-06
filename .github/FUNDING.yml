@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+github: [ehtshamul]           # Your GitHub Sponsors username (if enabled)
+patreon: ehtshamdev           # Your Patreon username
+open_collective: ehtsham-labs # Your Open Collective username
+ko_fi: ehtshamcodes           # Your Ko-fi username
+tidelift: npm/my-npm-package  # Your Tidelift package (if registered)
+community_bridge: cloud-foundry  # If applicable
+liberapay: ehtsham            # Your Liberapay username
+issuehunt: ehtsham            # Your IssueHunt username
+lfx_crowdfunding: cloud-foundry  # If you’re using LFX
+polar: ehtsham                # Your Polar.sh username
+buy_me_a_coffee: ehtsham      # Your Buy Me a Coffee username
+thanks_dev: ehtsham           # Your thanks.dev username
+custom: ['https://ehtshamul.github.io/presonal-profile-front/', 'https://www.buymeacoffee.com/ehtsham']
