@@ -1,0 +1,92 @@
+[
+  {
+    "id": 16,
+    "name": "LED Display Screen",
+    "description": "",
+    "price": 500,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 17,
+    "name": "Laser Pointer",
+    "description": "",
+    "price": 25,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 18,
+    "name": "Wireless Presenter",
+    "description": "",
+    "price": 40,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 19,
+    "name": "Video Camera",
+    "description": "",
+    "price": 300,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 20,
+    "name": "Tripod Stand",
+    "description": "",
+    "price": 60,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 21,
+    "name": "Portable Speaker",
+    "description": "",
+    "price": 75,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 22,
+    "name": "LED Uplighting",
+    "description": "",
+    "price": 90,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 23,
+    "name": "Smart TV",
+    "description": "",
+    "price": 700,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 24,
+    "name": "Interactive Touchscreen",
+    "description": "",
+    "price": 900,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  },
+  {
+    "id": 25,
+    "name": "PA System",
+    "description": "",
+    "price": 250,
+    "unit": "per unit",
+    "quantity": 0,
+    "type": "addon"
+  }
+]

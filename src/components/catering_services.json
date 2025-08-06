@@ -1,0 +1,137 @@
+[
+  {
+    "id": 26,
+    "name": "Breakfast",
+    "description": "",
+    "price": 50,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 27,
+    "name": "Lunch",
+    "description": "",
+    "price": 60,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 28,
+    "name": "High Tea",
+    "description": "",
+    "price": 25,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 29,
+    "name": "Dinner",
+    "description": "",
+    "price": 70,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 30,
+    "name": "Snacks",
+    "description": "",
+    "price": 20,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 31,
+    "name": "Soft Drinks",
+    "description": "",
+    "price": 15,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 32,
+    "name": "Water Bottles",
+    "description": "",
+    "price": 10,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 33,
+    "name": "Coffee",
+    "description": "",
+    "price": 18,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 34,
+    "name": "Tea",
+    "description": "",
+    "price": 12,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 35,
+    "name": "Fruits Platter",
+    "description": "",
+    "price": 35,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 36,
+    "name": "Dessert",
+    "description": "",
+    "price": 30,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 37,
+    "name": "Soup",
+    "description": "",
+    "price": 22,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 38,
+    "name": "Appetizers",
+    "description": "",
+    "price": 28,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 39,
+    "name": "Buffet Lunch",
+    "description": "",
+    "price": 80,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  },
+  {
+    "id": 40,
+    "name": "Buffet Dinner",
+    "description": "",
+    "price": 90,
+    "unit": "per person",
+    "quantity": 0,
+    "type": "meal"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "name": "Executive Board Room",
+    "description": "Capacity: 12",
+    "price": 1800,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 2,
+    "name": "Training Room",
+    "description": "Capacity: 30",
+    "price": 1200,
+    "unit": "per room",
+    "quantity": 0
+    ,
+    "type": "room"
+  },
+  {
+    "id": 3,
+    "name": "Workshop Room",
+    "description": "Capacity: 40",
+    "price": 1400,
+    "unit": "per room",
+    "quantity": 0
+    ,
+    "type": "room"
+  },
+  {
+    "id": 4,
+    "name": "Banquet Hall",
+    "description": "Capacity: 250",
+    "price": 6500,
+    "unit": "per room",
+    "quantity": 0
+    ,
+    "type": "room"
+  },
+  {
+    "id": 5,
+    "name": "Seminar Room",
+    "description": "Capacity: 60",
+    "price": 950,
+    "unit": "per room",
+    "quantity": 0
+    ,
+    "type": "room"
+  },
+  {
+    "id": 6,
+    "name": "Lecture Hall",
+    "description": "Capacity: 100",
+    "price": 3000,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 7,
+    "name": "Interview Room",
+    "description": "Capacity: 4",
+    "price": 400,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 8,
+    "name": "Focus Room",
+    "description": "Capacity: 2",
+    "price": 300,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 9,
+    "name": "Client Meeting Room",
+    "description": "Capacity: 6",
+    "price": 800,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 10,
+    "name": "Brainstorming Room",
+    "description": "Capacity: 8",
+    "price": 850,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 11,
+    "name": "Open Discussion Area",
+    "description": "Capacity: 20",
+    "price": 600,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 12,
+    "name": "Hybrid Meeting Room",
+    "description": "Capacity: 10 (with video setup)",
+    "price": 1600,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 13,
+    "name": "Virtual Conference Room",
+    "description": "Capacity: Online (up to 100)",
+    "price": 1200,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 14,
+    "name": "Quiet Work Room",
+    "description": "Capacity: 1",
+    "price": 150,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  },
+  {
+    "id": 15,
+    "name": "Strategy Room",
+    "description": "Capacity: 7",
+    "price": 1000,
+    "unit": "per room",
+    "quantity": 0,
+    "type": "room"
+  }
+]

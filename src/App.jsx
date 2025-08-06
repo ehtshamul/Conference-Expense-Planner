@@ -1,38 +1,22 @@
-import React, { useState } from "react";
-import "./App.css";
-import ConferenceEvent from "./ConferenceEvent";
-import AboutUs from "./AboutUs";
+// App.jsx
+import { Routes, Route } from 'react-router-dom';
+import Landing from './components/landing';
+import ProductsSelection from './components/products-selection'
+import AddOns from './components/Add-ons';
+import Meal from './components/Meal';
+import './App.css';
 
 function App() {
-  const [showVenue, setShowVenue] = useState(false);
-
-  const handleGetStarted = () => {
-    setShowVenue(true);
-  };
-
   return (
-    <>
-      <header className="first_page">
-        <div className="main_event">
-          <div className="first_page_name_btn">
-            <h1 className="budget_heading">Conference Expense Planner</h1>
-            <p className="budget_sentence"> Plan your next major event with us!</p>
-            <div className="getstarted_btn">
-              <button onClick={() => handleGetStarted()} className="get-started-btn">
-                Get Started
-              </button>
-            </div>
-          </div>
-          <div className="aboutus_main">
-            <AboutUs />
-          </div>
-        </div>
-      </header>
-
-      <div className={`event-list-container ${showVenue ? 'visible' : ''}`}>
-        <ConferenceEvent />
-      </div>
-    </>
+    
+    
+    <Routes>
+      <Route path="/" element={<Landing />} />
+      <Route path="/products-selection" element={<ProductsSelection />} />
+      <Route path="/Add-ons" element={<AddOns />} />
+      <Route path="/Meal" element={<Meal />} />
+      {/* Add more routes as needed */}
+    </Routes>
   );
 }
 
