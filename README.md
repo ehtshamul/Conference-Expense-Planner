@@ -1,3 +1,6 @@
+from pathlib import Path
+
+readme_content = """
 <h1 align="center">🎯 ConferenceVenue Pro Planner</h1>
 <p align="center">
   A modern web app for seamless event planning — select venues, equipment & catering in one place.
