@@ -1,11 +1,11 @@
 # 🏢 ConferenceVenue Pro Planner
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/conferencevenue-pro-planner?style=for-the-badge&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/conferencevenue-pro-planner?style=for-the-badge&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/conferencevenue-pro-planner?style=for-the-badge&color=orange)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/conferencevenue-pro-planner?style=for-the-badge&color=red)
-![GitHub license](https://img.shields.io/github/license/yourusername/conferencevenue-pro-planner?style=for-the-badge&color=brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/conferencevenue-pro-planner?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ehtshamul/conferencevenue-pro-planner?style=for-the-badge&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/ehtshamul/conferencevenue-pro-planner?style=for-the-badge&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ehtshamul/conferencevenue-pro-planner?style=for-the-badge&color=orange)
+![GitHub issues](https://img.shields.io/github/issues/ehtshamul/conferencevenue-pro-planner?style=for-the-badge&color=red)
+![GitHub license](https://img.shields.io/github/license/ehtshamul/conferencevenue-pro-planner?style=for-the-badge&color=brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/ehtshamul/conferencevenue-pro-planner?style=for-the-badge)
 
 ---
 
@@ -102,10 +102,3 @@ git push origin feature/your-feature
 
 ---
 
-### ✅ Next Steps for You:
-
-1. **Replace `yourusername`** in the badge URLs with your actual GitHub username (likely `ehtshamul`).
-2. Save this file as `README.md` in the root of your GitHub repository.
-3. Push it and see your new professional README live! 🚀
-
-Would you like me to generate a downloadable version of this README file for you (`.md` format)?
